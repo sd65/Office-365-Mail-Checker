@@ -1,0 +1,28 @@
+{
+  "credetialsHeader" : {
+    "type" : "header",
+    "description": "Office 365 credentials"
+  },
+  "email" : {
+    "type" : "entry",
+    "default": "",
+    "description" : "Email"
+  },
+  "password" : {
+    "type" : "entry",
+    "default": "",
+    "description" : "Password"
+  },
+  "miscHeader" : {
+    "type" : "header",
+    "description": "Miscellaneous"
+  },
+  "refreshTime" : {
+    "type": "spinbutton",
+    "description": "Refresh time",
+    "default": 15,
+    "min": 1,
+    "max": 3600,
+    "units": "seconds"
+  }
+}

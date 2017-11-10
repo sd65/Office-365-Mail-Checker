@@ -1,0 +1,9 @@
+{
+    "description": "Displays number of new mails.", 
+    "max-instances": -1, 
+    "dangerous": false, 
+    "uuid": "office365-mail-checker@sylvain.doignon.fr", 
+    "name": "Office 365 Mail Checker", 
+    "version": "1.0", 
+    "icon": "email"
+}

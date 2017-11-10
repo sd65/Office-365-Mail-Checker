@@ -1,0 +1,21 @@
+<svg width="235" height="279" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+ <title>logo_office_365</title>
+ <desc>Created with Sketch.</desc>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Page-1">
+   <g fill="#DA3B01" id="Office-365---CP---frontpage">
+    <g id="logo_office_365">
+     <path id="Combined-Shape" d="m0.258057,225.123062l150.690704,53.550339l83.694763,-26.82312l0,-223.867844l-83.694763,-27.982437l-150.948761,57.866516l0,167.164825l0.075836,0.026962l54.008713,-22.383713l0,-131.675934l97.804886,-22.410965l0,196.114761l-151.631378,-19.579391z"/>
+    </g>
+   </g>
+  </g>
+  <ellipse ry="28.999999" rx="28.999999" id="svg_1" cy="29.000003" cx="188.999999" stroke-width="17" fill="#007fff"/>
+ </g>
+</svg>
